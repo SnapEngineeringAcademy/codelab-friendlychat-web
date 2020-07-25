@@ -1,11 +1,14 @@
 # Firebase Codelab: FriendlyChat
 
-This is the source code for the Firebase FriendlyChat codelab. It includes start and end versions of the
-code for Web, Cloud Functions, Performance Monitoring. To get started, open the codelab instructions:
-
+This code is credited to the: 
  - [Firebase Web Codelab](https://codelabs.developers.google.com/codelabs/firebase-web/).
- - [Firebase SDK for Cloud Functions Codelab](https://codelabs.developers.google.com/codelabs/firebase-cloud-functions/).
- - [Firebase Performance Monitoring for Web Codelab](https://codelabs.developers.google.com/codelabs/firebase-perf-mon-web/).
+
+## How to Run
+
+The completed code is in the `web` subfolder. In terminal, you can run by using `firebase deploy --except functions`
+
+## Planned Changes for SEA
+
 
 
 ## How to make contributions?
